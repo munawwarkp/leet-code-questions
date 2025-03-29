@@ -19,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/munawwarkp/leet-code-questions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Math
+|  |
+| ------- |
+| [2383-add-two-integers](https://github.com/munawwarkp/leet-code-questions/tree/master/2383-add-two-integers) |
 <!---LeetCode Topics End-->
