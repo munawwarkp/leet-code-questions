@@ -3,7 +3,8 @@
  * @return {number[]}
  */
 var plusOne = function(digits) {
-    const num = BigInt(digits.join('')) + 1n
-    return String(num).split('').map(num => Number(num))
-
+    const newNum = digits.join('')
+    const intNum = BigInt(newNum) + 1n
+    const strNum = String(intNum).split('').map(num => Number(num))
+    return strNum
 };
