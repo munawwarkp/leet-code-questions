@@ -52,5 +52,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/munawwarkp/leet-code-questions/tree/master/0038-count-and-say) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/munawwarkp/leet-code-questions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 <!---LeetCode Topics End-->
