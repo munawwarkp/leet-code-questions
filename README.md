@@ -35,11 +35,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/munawwarkp/leet-code-questions/tree/master/0066-plus-one) |
+| [0412-fizz-buzz](https://github.com/munawwarkp/leet-code-questions/tree/master/0412-fizz-buzz) |
 | [2383-add-two-integers](https://github.com/munawwarkp/leet-code-questions/tree/master/2383-add-two-integers) |
 | [2556-convert-the-temperature](https://github.com/munawwarkp/leet-code-questions/tree/master/2556-convert-the-temperature) |
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/munawwarkp/leet-code-questions/tree/master/0412-fizz-buzz) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/munawwarkp/leet-code-questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Bit Manipulation
 |  |
@@ -53,5 +55,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/munawwarkp/leet-code-questions/tree/master/0038-count-and-say) |
+| [0412-fizz-buzz](https://github.com/munawwarkp/leet-code-questions/tree/master/0412-fizz-buzz) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/munawwarkp/leet-code-questions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 <!---LeetCode Topics End-->
