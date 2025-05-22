@@ -9,10 +9,9 @@ var maxDepth = function(s) {
   for(i=0;i<s.length;i++){
     if(s.charAt(i)=='('){
         count++
-         if(count>res){
-            res=count
+        if(count>res){
+            res = count
         }
-        
     }
     else if(s.charAt(i) == ')'){
         count--
