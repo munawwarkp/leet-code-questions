@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/munawwarkp/leet-code-questions/tree/master/0412-fizz-buzz) |
 | [2383-add-two-integers](https://github.com/munawwarkp/leet-code-questions/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/munawwarkp/leet-code-questions/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/munawwarkp/leet-code-questions/tree/master/2507-number-of-common-factors) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/munawwarkp/leet-code-questions/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2556-convert-the-temperature](https://github.com/munawwarkp/leet-code-questions/tree/master/2556-convert-the-temperature) |
 ## Simulation
@@ -69,8 +70,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/munawwarkp/leet-code-questions/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/munawwarkp/leet-code-questions/tree/master/2507-number-of-common-factors) |
 ## Stack
 |  |
 | ------- |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/munawwarkp/leet-code-questions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/munawwarkp/leet-code-questions/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
