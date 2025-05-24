@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/munawwarkp/leet-code-questions/tree/master/1791-richest-customer-wealth) |
 | [1848-sum-of-unique-elements](https://github.com/munawwarkp/leet-code-questions/tree/master/1848-sum-of-unique-elements) |
 | [2058-concatenation-of-array](https://github.com/munawwarkp/leet-code-questions/tree/master/2058-concatenation-of-array) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/munawwarkp/leet-code-questions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/munawwarkp/leet-code-questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/munawwarkp/leet-code-questions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/munawwarkp/leet-code-questions/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/munawwarkp/leet-code-questions/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/munawwarkp/leet-code-questions/tree/master/0412-fizz-buzz) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/munawwarkp/leet-code-questions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2383-add-two-integers](https://github.com/munawwarkp/leet-code-questions/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/munawwarkp/leet-code-questions/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/munawwarkp/leet-code-questions/tree/master/2507-number-of-common-factors) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/munawwarkp/leet-code-questions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/munawwarkp/leet-code-questions/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/munawwarkp/leet-code-questions/tree/master/2507-number-of-common-factors) |
 ## Stack
