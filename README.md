@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/munawwarkp/leet-code-questions/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/munawwarkp/leet-code-questions/tree/master/0412-fizz-buzz) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/munawwarkp/leet-code-questions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/munawwarkp/leet-code-questions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2383-add-two-integers](https://github.com/munawwarkp/leet-code-questions/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/munawwarkp/leet-code-questions/tree/master/2491-smallest-even-multiple) |
