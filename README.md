@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/munawwarkp/leet-code-questions/tree/master/0066-plus-one) |
+| [0367-valid-perfect-square](https://github.com/munawwarkp/leet-code-questions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/munawwarkp/leet-code-questions/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/munawwarkp/leet-code-questions/tree/master/0507-perfect-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/munawwarkp/leet-code-questions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -99,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3226-minimum-number-game](https://github.com/munawwarkp/leet-code-questions/tree/master/3226-minimum-number-game) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/munawwarkp/leet-code-questions/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
