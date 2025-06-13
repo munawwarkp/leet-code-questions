@@ -117,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2756-buy-two-chocolates](https://github.com/munawwarkp/leet-code-questions/tree/master/2756-buy-two-chocolates) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/munawwarkp/leet-code-questions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
