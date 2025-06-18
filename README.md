@@ -129,5 +129,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/munawwarkp/leet-code-questions/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/munawwarkp/leet-code-questions/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/munawwarkp/leet-code-questions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+| [0596-classes-with-at-least-5-students](https://github.com/munawwarkp/leet-code-questions/tree/master/0596-classes-with-at-least-5-students) |
 | [1179-game-play-analysis-i](https://github.com/munawwarkp/leet-code-questions/tree/master/1179-game-play-analysis-i) |
 <!---LeetCode Topics End-->
