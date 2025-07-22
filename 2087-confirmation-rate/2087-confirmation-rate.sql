@@ -3,7 +3,7 @@
  select 
 	s.user_id,
 	cast(ISNULL(
-		SUM(case when action='confirmed' then 1 end)*1.00/
+		count(case when action='confirmed' then 1 end)*1.00/
 		count(*),0) as decimal(16,2))
 		
 		as confirmation_rate
