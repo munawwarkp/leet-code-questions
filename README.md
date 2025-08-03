@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/munawwarkp/leet-code-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/munawwarkp/leet-code-questions/tree/master/0066-plus-one) |
 | [0137-single-number-ii](https://github.com/munawwarkp/leet-code-questions/tree/master/0137-single-number-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/munawwarkp/leet-code-questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/munawwarkp/leet-code-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/munawwarkp/leet-code-questions/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Greedy
 |  |
