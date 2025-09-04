@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/munawwarkp/leet-code-questions/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/munawwarkp/leet-code-questions/tree/master/0066-plus-one) |
 | [0137-single-number-ii](https://github.com/munawwarkp/leet-code-questions/tree/master/0137-single-number-ii) |
+| [0283-move-zeroes](https://github.com/munawwarkp/leet-code-questions/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/munawwarkp/leet-code-questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/munawwarkp/leet-code-questions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/munawwarkp/leet-code-questions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/munawwarkp/leet-code-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/munawwarkp/leet-code-questions/tree/master/0027-remove-element) |
+| [0283-move-zeroes](https://github.com/munawwarkp/leet-code-questions/tree/master/0283-move-zeroes) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/munawwarkp/leet-code-questions/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Greedy
 |  |
