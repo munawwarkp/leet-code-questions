@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/munawwarkp/leet-code-questions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/munawwarkp/leet-code-questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/munawwarkp/leet-code-questions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/munawwarkp/leet-code-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/munawwarkp/leet-code-questions/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/munawwarkp/leet-code-questions/tree/master/0066-plus-one) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/munawwarkp/leet-code-questions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/munawwarkp/leet-code-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/munawwarkp/leet-code-questions/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/munawwarkp/leet-code-questions/tree/master/0283-move-zeroes) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/munawwarkp/leet-code-questions/tree/master/0011-container-with-most-water) |
 | [2756-buy-two-chocolates](https://github.com/munawwarkp/leet-code-questions/tree/master/2756-buy-two-chocolates) |
 ## Database
 |  |
