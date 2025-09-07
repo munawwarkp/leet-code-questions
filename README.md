@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/munawwarkp/leet-code-questions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/munawwarkp/leet-code-questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/munawwarkp/leet-code-questions/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/munawwarkp/leet-code-questions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/munawwarkp/leet-code-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/munawwarkp/leet-code-questions/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/munawwarkp/leet-code-questions/tree/master/0066-plus-one) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/munawwarkp/leet-code-questions/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/munawwarkp/leet-code-questions/tree/master/0038-count-and-say) |
 | [0412-fizz-buzz](https://github.com/munawwarkp/leet-code-questions/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/munawwarkp/leet-code-questions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -167,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/munawwarkp/leet-code-questions/tree/master/0004-median-of-two-sorted-arrays) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/munawwarkp/leet-code-questions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
