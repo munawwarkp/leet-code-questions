@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/munawwarkp/leet-code-questions/tree/master/0137-single-number-ii) |
 | [0283-move-zeroes](https://github.com/munawwarkp/leet-code-questions/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/munawwarkp/leet-code-questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0643-maximum-average-subarray-i](https://github.com/munawwarkp/leet-code-questions/tree/master/0643-maximum-average-subarray-i) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/munawwarkp/leet-code-questions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/munawwarkp/leet-code-questions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/munawwarkp/leet-code-questions/tree/master/1791-richest-customer-wealth) |
@@ -174,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/munawwarkp/leet-code-questions/tree/master/0014-longest-common-prefix) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/munawwarkp/leet-code-questions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
