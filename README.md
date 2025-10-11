@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/munawwarkp/leet-code-questions/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/munawwarkp/leet-code-questions/tree/master/3226-minimum-number-game) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/munawwarkp/leet-code-questions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/munawwarkp/leet-code-questions/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/munawwarkp/leet-code-questions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/munawwarkp/leet-code-questions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/munawwarkp/leet-code-questions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/munawwarkp/leet-code-questions/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Simulation
 |  |
 | ------- |
