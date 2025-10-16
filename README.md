@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/munawwarkp/leet-code-questions/tree/master/1580-shuffle-the-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/munawwarkp/leet-code-questions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/munawwarkp/leet-code-questions/tree/master/1791-richest-customer-wealth) |
+| [1839-decode-xored-array](https://github.com/munawwarkp/leet-code-questions/tree/master/1839-decode-xored-array) |
 | [1848-sum-of-unique-elements](https://github.com/munawwarkp/leet-code-questions/tree/master/1848-sum-of-unique-elements) |
 | [1944-truncate-sentence](https://github.com/munawwarkp/leet-code-questions/tree/master/1944-truncate-sentence) |
 | [2048-build-array-from-permutation](https://github.com/munawwarkp/leet-code-questions/tree/master/2048-build-array-from-permutation) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0137-single-number-ii](https://github.com/munawwarkp/leet-code-questions/tree/master/0137-single-number-ii) |
 | [0476-number-complement](https://github.com/munawwarkp/leet-code-questions/tree/master/0476-number-complement) |
+| [1839-decode-xored-array](https://github.com/munawwarkp/leet-code-questions/tree/master/1839-decode-xored-array) |
 ## Matrix
 |  |
 | ------- |
