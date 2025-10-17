@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/munawwarkp/leet-code-questions/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/munawwarkp/leet-code-questions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3582-find-indices-of-stable-mountains](https://github.com/munawwarkp/leet-code-questions/tree/master/3582-find-indices-of-stable-mountains) |
+| [3778-transform-array-by-parity](https://github.com/munawwarkp/leet-code-questions/tree/master/3778-transform-array-by-parity) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/munawwarkp/leet-code-questions/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/munawwarkp/leet-code-questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2756-buy-two-chocolates](https://github.com/munawwarkp/leet-code-questions/tree/master/2756-buy-two-chocolates) |
 | [3226-minimum-number-game](https://github.com/munawwarkp/leet-code-questions/tree/master/3226-minimum-number-game) |
+| [3778-transform-array-by-parity](https://github.com/munawwarkp/leet-code-questions/tree/master/3778-transform-array-by-parity) |
 ## Counting Sort
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/munawwarkp/leet-code-questions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1848-sum-of-unique-elements](https://github.com/munawwarkp/leet-code-questions/tree/master/1848-sum-of-unique-elements) |
 | [3019-furthest-point-from-origin](https://github.com/munawwarkp/leet-code-questions/tree/master/3019-furthest-point-from-origin) |
+| [3778-transform-array-by-parity](https://github.com/munawwarkp/leet-code-questions/tree/master/3778-transform-array-by-parity) |
 ## Math
 |  |
 | ------- |
