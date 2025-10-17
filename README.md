@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/munawwarkp/leet-code-questions/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/munawwarkp/leet-code-questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/munawwarkp/leet-code-questions/tree/master/0643-maximum-average-subarray-i) |
+| [0792-binary-search](https://github.com/munawwarkp/leet-code-questions/tree/master/0792-binary-search) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/munawwarkp/leet-code-questions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/munawwarkp/leet-code-questions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/munawwarkp/leet-code-questions/tree/master/1580-shuffle-the-array) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/munawwarkp/leet-code-questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0367-valid-perfect-square](https://github.com/munawwarkp/leet-code-questions/tree/master/0367-valid-perfect-square) |
+| [0792-binary-search](https://github.com/munawwarkp/leet-code-questions/tree/master/0792-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
