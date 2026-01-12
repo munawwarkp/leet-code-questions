@@ -1,18 +1,19 @@
 public class Solution {
     public int NumIdenticalPairs(int[] nums) {
-        int count = 0;
+       Dictionary<int, int> dc = new Dictionary<int, int>();
 
- for (int i = 0; i < nums.Length; i++)
+ int count = 0;
+
+ for(int i=0; i<nums.Length; i++)
  {
-     int j = i+1;
-
-     while (i < j && j<nums.Length)
+     if (!dc.ContainsKey(nums[i]))
      {
-         if (nums[i] == nums[j] && i != j)
-         {
-            count++;
-         }
-         j++;
+         dc[nums[i]] = 1;
+     }
+     else
+     {
+         count += dc[nums[i]];
+         dc[nums[i]] += 1;
      }
  }
  return count;
