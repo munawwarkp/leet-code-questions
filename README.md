@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/munawwarkp/leet-code-questions/tree/master/1848-sum-of-unique-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/munawwarkp/leet-code-questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/munawwarkp/leet-code-questions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/munawwarkp/leet-code-questions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/munawwarkp/leet-code-questions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Sorting
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/munawwarkp/leet-code-questions/tree/master/1512-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/munawwarkp/leet-code-questions/tree/master/1848-sum-of-unique-elements) |
 | [3019-furthest-point-from-origin](https://github.com/munawwarkp/leet-code-questions/tree/master/3019-furthest-point-from-origin) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/munawwarkp/leet-code-questions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3778-transform-array-by-parity](https://github.com/munawwarkp/leet-code-questions/tree/master/3778-transform-array-by-parity) |
 ## Math
 |  |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/munawwarkp/leet-code-questions/tree/master/1944-truncate-sentence) |
 | [3019-furthest-point-from-origin](https://github.com/munawwarkp/leet-code-questions/tree/master/3019-furthest-point-from-origin) |
 | [3194-find-words-containing-character](https://github.com/munawwarkp/leet-code-questions/tree/master/3194-find-words-containing-character) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/munawwarkp/leet-code-questions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/munawwarkp/leet-code-questions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Number Theory
 |  |
