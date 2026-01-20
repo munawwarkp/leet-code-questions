@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/munawwarkp/leet-code-questions/tree/master/1512-number-of-good-pairs) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/munawwarkp/leet-code-questions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/munawwarkp/leet-code-questions/tree/master/1580-shuffle-the-array) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/munawwarkp/leet-code-questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/munawwarkp/leet-code-questions/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/munawwarkp/leet-code-questions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/munawwarkp/leet-code-questions/tree/master/1791-richest-customer-wealth) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/munawwarkp/leet-code-questions/tree/master/0771-jewels-and-stones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/munawwarkp/leet-code-questions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/munawwarkp/leet-code-questions/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/munawwarkp/leet-code-questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/munawwarkp/leet-code-questions/tree/master/1848-sum-of-unique-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/munawwarkp/leet-code-questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/munawwarkp/leet-code-questions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/munawwarkp/leet-code-questions/tree/master/0169-majority-element) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/munawwarkp/leet-code-questions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/munawwarkp/leet-code-questions/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/munawwarkp/leet-code-questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/munawwarkp/leet-code-questions/tree/master/1848-sum-of-unique-elements) |
 | [3019-furthest-point-from-origin](https://github.com/munawwarkp/leet-code-questions/tree/master/3019-furthest-point-from-origin) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/munawwarkp/leet-code-questions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0137-single-number-ii](https://github.com/munawwarkp/leet-code-questions/tree/master/0137-single-number-ii) |
 | [0476-number-complement](https://github.com/munawwarkp/leet-code-questions/tree/master/0476-number-complement) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/munawwarkp/leet-code-questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1839-decode-xored-array](https://github.com/munawwarkp/leet-code-questions/tree/master/1839-decode-xored-array) |
 ## Matrix
 |  |
@@ -140,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/munawwarkp/leet-code-questions/tree/master/0742-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/munawwarkp/leet-code-questions/tree/master/0771-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/munawwarkp/leet-code-questions/tree/master/1205-defanging-an-ip-address) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/munawwarkp/leet-code-questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/munawwarkp/leet-code-questions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/munawwarkp/leet-code-questions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1944-truncate-sentence](https://github.com/munawwarkp/leet-code-questions/tree/master/1944-truncate-sentence) |
