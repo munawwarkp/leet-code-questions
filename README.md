@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/munawwarkp/leet-code-questions/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/munawwarkp/leet-code-questions/tree/master/0792-binary-search) |
 | [1241-decompress-run-length-encoded-list](https://github.com/munawwarkp/leet-code-questions/tree/master/1241-decompress-run-length-encoded-list) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/munawwarkp/leet-code-questions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/munawwarkp/leet-code-questions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/munawwarkp/leet-code-questions/tree/master/1512-number-of-good-pairs) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/munawwarkp/leet-code-questions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/munawwarkp/leet-code-questions/tree/master/0219-contains-duplicate-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/munawwarkp/leet-code-questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/munawwarkp/leet-code-questions/tree/master/0771-jewels-and-stones) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/munawwarkp/leet-code-questions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/munawwarkp/leet-code-questions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/munawwarkp/leet-code-questions/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/munawwarkp/leet-code-questions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/munawwarkp/leet-code-questions/tree/master/0011-container-with-most-water) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/munawwarkp/leet-code-questions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [2756-buy-two-chocolates](https://github.com/munawwarkp/leet-code-questions/tree/master/2756-buy-two-chocolates) |
 ## Database
 |  |
