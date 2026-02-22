@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/munawwarkp/leet-code-questions/tree/master/0771-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/munawwarkp/leet-code-questions/tree/master/1205-defanging-an-ip-address) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/munawwarkp/leet-code-questions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/munawwarkp/leet-code-questions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/munawwarkp/leet-code-questions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/munawwarkp/leet-code-questions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1944-truncate-sentence](https://github.com/munawwarkp/leet-code-questions/tree/master/1944-truncate-sentence) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/munawwarkp/leet-code-questions/tree/master/0011-container-with-most-water) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/munawwarkp/leet-code-questions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/munawwarkp/leet-code-questions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2756-buy-two-chocolates](https://github.com/munawwarkp/leet-code-questions/tree/master/2756-buy-two-chocolates) |
 ## Database
 |  |
