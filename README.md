@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/munawwarkp/leet-code-questions/tree/master/2058-concatenation-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/munawwarkp/leet-code-questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3226-minimum-number-game](https://github.com/munawwarkp/leet-code-questions/tree/master/3226-minimum-number-game) |
+| [3498-reverse-degree-of-a-string](https://github.com/munawwarkp/leet-code-questions/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3146-permutation-difference-between-two-strings](https://github.com/munawwarkp/leet-code-questions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3194-find-words-containing-character](https://github.com/munawwarkp/leet-code-questions/tree/master/3194-find-words-containing-character) |
 | [3280-convert-date-to-binary](https://github.com/munawwarkp/leet-code-questions/tree/master/3280-convert-date-to-binary) |
+| [3498-reverse-degree-of-a-string](https://github.com/munawwarkp/leet-code-questions/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/munawwarkp/leet-code-questions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/munawwarkp/leet-code-questions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Number Theory
