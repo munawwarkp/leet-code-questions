@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/munawwarkp/leet-code-questions/tree/master/0476-number-complement) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/munawwarkp/leet-code-questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1839-decode-xored-array](https://github.com/munawwarkp/leet-code-questions/tree/master/1839-decode-xored-array) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/munawwarkp/leet-code-questions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Matrix
 |  |
 | ------- |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3110-score-of-a-string](https://github.com/munawwarkp/leet-code-questions/tree/master/3110-score-of-a-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/munawwarkp/leet-code-questions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3194-find-words-containing-character](https://github.com/munawwarkp/leet-code-questions/tree/master/3194-find-words-containing-character) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/munawwarkp/leet-code-questions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3280-convert-date-to-binary](https://github.com/munawwarkp/leet-code-questions/tree/master/3280-convert-date-to-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/munawwarkp/leet-code-questions/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/munawwarkp/leet-code-questions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -265,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/munawwarkp/leet-code-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/munawwarkp/leet-code-questions/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/munawwarkp/leet-code-questions/tree/master/0643-maximum-average-subarray-i) |
+## Backtracking
+|  |
+| ------- |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/munawwarkp/leet-code-questions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
