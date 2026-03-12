@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/munawwarkp/leet-code-questions/tree/master/0742-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/munawwarkp/leet-code-questions/tree/master/0771-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/munawwarkp/leet-code-questions/tree/master/1205-defanging-an-ip-address) |
+| [1678-goal-parser-interpretation](https://github.com/munawwarkp/leet-code-questions/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/munawwarkp/leet-code-questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/munawwarkp/leet-code-questions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/munawwarkp/leet-code-questions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
