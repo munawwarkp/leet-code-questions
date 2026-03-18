@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/munawwarkp/leet-code-questions/tree/master/0169-majority-element) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/munawwarkp/leet-code-questions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/munawwarkp/leet-code-questions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/munawwarkp/leet-code-questions/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/munawwarkp/leet-code-questions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/munawwarkp/leet-code-questions/tree/master/0742-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/munawwarkp/leet-code-questions/tree/master/0771-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/munawwarkp/leet-code-questions/tree/master/1205-defanging-an-ip-address) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/munawwarkp/leet-code-questions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1678-goal-parser-interpretation](https://github.com/munawwarkp/leet-code-questions/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/munawwarkp/leet-code-questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/munawwarkp/leet-code-questions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/munawwarkp/leet-code-questions/tree/master/0011-container-with-most-water) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/munawwarkp/leet-code-questions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/munawwarkp/leet-code-questions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/munawwarkp/leet-code-questions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2756-buy-two-chocolates](https://github.com/munawwarkp/leet-code-questions/tree/master/2756-buy-two-chocolates) |
