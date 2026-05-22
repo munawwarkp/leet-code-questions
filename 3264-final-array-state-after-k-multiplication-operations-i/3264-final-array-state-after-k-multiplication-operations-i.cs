@@ -1,14 +1,22 @@
 public class Solution {
     public int[] GetFinalState(int[] nums, int k, int multiplier) {
-         for(int i=0; i<k; i++)
+         var pq = new PriorityQueue<(int value, int index),(int value, int index)>();
+
+for(int i=0; i< nums.Length; i++)
  {
-     int min = nums.Min();
-     int minIndex = Array.IndexOf(nums, min);
+     pq.Enqueue((nums[i], i), (nums[i], i));
+ };
 
-     int insteadMin = min * multiplier;
-     nums[minIndex] = insteadMin;
+ for (int i=0; i<k; i++)
+ {
+     var current = pq.Dequeue();
 
+     int newValue = current.value * multiplier;
+     nums[current.index] = newValue;
+
+     pq.Enqueue((newValue, current.index), (newValue, current.index));
  }
+
  return nums;
     }
 }
