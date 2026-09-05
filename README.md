@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/munawwarkp/leet-code-questions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3582-find-indices-of-stable-mountains](https://github.com/munawwarkp/leet-code-questions/tree/master/3582-find-indices-of-stable-mountains) |
 | [3778-transform-array-by-parity](https://github.com/munawwarkp/leet-code-questions/tree/master/3778-transform-array-by-parity) |
+| [3838-weighted-word-mapping](https://github.com/munawwarkp/leet-code-questions/tree/master/3838-weighted-word-mapping) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/munawwarkp/leet-code-questions/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3226-minimum-number-game](https://github.com/munawwarkp/leet-code-questions/tree/master/3226-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/munawwarkp/leet-code-questions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/munawwarkp/leet-code-questions/tree/master/3498-reverse-degree-of-a-string) |
+| [3838-weighted-word-mapping](https://github.com/munawwarkp/leet-code-questions/tree/master/3838-weighted-word-mapping) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/munawwarkp/leet-code-questions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/munawwarkp/leet-code-questions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/munawwarkp/leet-code-questions/tree/master/3794-reverse-string-prefix) |
+| [3838-weighted-word-mapping](https://github.com/munawwarkp/leet-code-questions/tree/master/3838-weighted-word-mapping) |
 ## Number Theory
 |  |
 | ------- |
