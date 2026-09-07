@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/munawwarkp/leet-code-questions/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/munawwarkp/leet-code-questions/tree/master/0742-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/munawwarkp/leet-code-questions/tree/master/0771-jewels-and-stones) |
+| [1021-remove-outermost-parentheses](https://github.com/munawwarkp/leet-code-questions/tree/master/1021-remove-outermost-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/munawwarkp/leet-code-questions/tree/master/1205-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/munawwarkp/leet-code-questions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1678-goal-parser-interpretation](https://github.com/munawwarkp/leet-code-questions/tree/master/1678-goal-parser-interpretation) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/munawwarkp/leet-code-questions/tree/master/1021-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/munawwarkp/leet-code-questions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Enumeration
 |  |
@@ -292,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/munawwarkp/leet-code-questions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/munawwarkp/leet-code-questions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
