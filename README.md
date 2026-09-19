@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/munawwarkp/leet-code-questions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/munawwarkp/leet-code-questions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1944-truncate-sentence](https://github.com/munawwarkp/leet-code-questions/tree/master/1944-truncate-sentence) |
+| [2000-reverse-prefix-of-word](https://github.com/munawwarkp/leet-code-questions/tree/master/2000-reverse-prefix-of-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/munawwarkp/leet-code-questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3019-furthest-point-from-origin](https://github.com/munawwarkp/leet-code-questions/tree/master/3019-furthest-point-from-origin) |
 | [3110-score-of-a-string](https://github.com/munawwarkp/leet-code-questions/tree/master/3110-score-of-a-string) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/munawwarkp/leet-code-questions/tree/master/1021-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/munawwarkp/leet-code-questions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2000-reverse-prefix-of-word](https://github.com/munawwarkp/leet-code-questions/tree/master/2000-reverse-prefix-of-word) |
 ## Enumeration
 |  |
 | ------- |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/munawwarkp/leet-code-questions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/munawwarkp/leet-code-questions/tree/master/0283-move-zeroes) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/munawwarkp/leet-code-questions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [2000-reverse-prefix-of-word](https://github.com/munawwarkp/leet-code-questions/tree/master/2000-reverse-prefix-of-word) |
 | [3794-reverse-string-prefix](https://github.com/munawwarkp/leet-code-questions/tree/master/3794-reverse-string-prefix) |
 ## Greedy
 |  |
