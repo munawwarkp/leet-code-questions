@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/munawwarkp/leet-code-questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/munawwarkp/leet-code-questions/tree/master/1848-sum-of-unique-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/munawwarkp/leet-code-questions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2325-decode-the-message](https://github.com/munawwarkp/leet-code-questions/tree/master/2325-decode-the-message) |
 | [3146-permutation-difference-between-two-strings](https://github.com/munawwarkp/leet-code-questions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/munawwarkp/leet-code-questions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/munawwarkp/leet-code-questions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/munawwarkp/leet-code-questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/munawwarkp/leet-code-questions/tree/master/2000-reverse-prefix-of-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/munawwarkp/leet-code-questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2325-decode-the-message](https://github.com/munawwarkp/leet-code-questions/tree/master/2325-decode-the-message) |
 | [3019-furthest-point-from-origin](https://github.com/munawwarkp/leet-code-questions/tree/master/3019-furthest-point-from-origin) |
 | [3110-score-of-a-string](https://github.com/munawwarkp/leet-code-questions/tree/master/3110-score-of-a-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/munawwarkp/leet-code-questions/tree/master/3146-permutation-difference-between-two-strings) |
