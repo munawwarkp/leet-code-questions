@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/munawwarkp/leet-code-questions/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/munawwarkp/leet-code-questions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/munawwarkp/leet-code-questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/munawwarkp/leet-code-questions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/munawwarkp/leet-code-questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/munawwarkp/leet-code-questions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2418-sort-the-people](https://github.com/munawwarkp/leet-code-questions/tree/master/2418-sort-the-people) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/munawwarkp/leet-code-questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/munawwarkp/leet-code-questions/tree/master/2000-reverse-prefix-of-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/munawwarkp/leet-code-questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/munawwarkp/leet-code-questions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2325-decode-the-message](https://github.com/munawwarkp/leet-code-questions/tree/master/2325-decode-the-message) |
 | [2418-sort-the-people](https://github.com/munawwarkp/leet-code-questions/tree/master/2418-sort-the-people) |
 | [3019-furthest-point-from-origin](https://github.com/munawwarkp/leet-code-questions/tree/master/3019-furthest-point-from-origin) |
@@ -315,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/munawwarkp/leet-code-questions/tree/master/1021-remove-outermost-parentheses) |
+## String Matching
+|  |
+| ------- |
+| [2185-counting-words-with-a-given-prefix](https://github.com/munawwarkp/leet-code-questions/tree/master/2185-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
